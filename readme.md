@@ -51,4 +51,4 @@ Feel free to modify the game logic or add features to enhance the game. You can 
 Ensure you have Python installed on your machine. Open a terminal and run the following command:
 
 ```bash
-python tic_tac_toe.py
+python main.py
