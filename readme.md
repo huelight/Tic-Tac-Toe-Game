@@ -1,4 +1,5 @@
 # Tic Tac Toe Game
+![Tic Tac Toe Game Screenshot](tic_tac_toe_game_screenshot.png)
 
 This is a simple console-based Tic Tac Toe game implemented in Python. The game supports two players taking turns to make their moves and determines the winner or declares a tie based on the traditional rules of Tic Tac Toe.
 
